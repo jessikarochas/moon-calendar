@@ -1,4 +1,5 @@
 # notion-widgets
 My collection of customized Notion Widgets
 
-[moon-calendar](./moon-calendar)
+- [Moon calendar](./moon-calendar)
+- [Week Weather](./week-weather)
