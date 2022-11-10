@@ -1,2 +1,2 @@
-# moon-calendar
-Moon calendar widget
+# notion-widgets
+My collection of customized Notion Widgets
