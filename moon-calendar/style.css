@@ -57,11 +57,11 @@ background-size: 25%;
 background-position: 95% 95%;
 }
 .day_box>div>span{
-position:absolute;
-color:white;
+position: absolute;
+color: black;
 font-size: 1em;
 text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 .day_box>div>div{
-padding:5% 15%;   
+padding: 5% 15%;   
 }
