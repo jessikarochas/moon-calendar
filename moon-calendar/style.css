@@ -4,9 +4,9 @@ body{
 #ex3{    
 max-width: 700px;
 margin:20px auto;
-background-color: rgba(0,0,0,0);
+background-color: rgba(0,0,0,.75);
 padding: 1%;
-color: black;
+color: white;
 box-sizing: border-box;
 font-family:sans-serif;
 }
