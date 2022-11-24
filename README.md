@@ -4,4 +4,4 @@ My collection of customized Notion Widgets Feel free to use them if you want any
 ## Widget List
 - [Moon calendar](./moon-calendar)
 - [Week Weather](./week-weather) (for Maceio, Brazil)
-- [Roll a Die](./Dice/dice)
+- [Roll a Die](./roll-a-die/dice)
